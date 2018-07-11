@@ -35,6 +35,6 @@ function dec(x) {
 number--
 
 function makeInt(n) {
-  parseInt()
+  return n
 }
 
